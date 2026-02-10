@@ -10,6 +10,12 @@ from openai import OpenAI
 from huggingface_hub import InferenceClient
 from collections import defaultdict
 
+# Page Config
+st.set_page_config(
+    page_title="SudoDocs Content Taxonomy Mapper",
+    page_icon="https://sudodocs.com/favicon.ico",
+    layout="wide"
+)
 # --- UTILITY FUNCTIONS (Back-end Logic) ---
 
 # A set of common English stop words to filter from the final keyword list
@@ -300,8 +306,6 @@ def augment_topics(row):
     return topics
 
 # --- STREAMLIT UI ---
-
-st.set_page_config(layout="wide", page_title="SudoDocs Content Taxonomy Mapper")
 
 # Function to load and inject local CSS file
 def local_css(file_name):

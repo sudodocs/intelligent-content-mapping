@@ -4,7 +4,7 @@ Create Sphinx `Meta` directive block in CSV and add it to your RST pages. Helps 
 
 ## Map and Generate Keywords
 
-1. In the [AI-Powered Content Taxonomy](https://intelligent-content-mapping.streamlit.app/) application, navigate to  **Step 1: Ingest and Map** \> **Scrape URLs and Content** tab.  
+1. In the [AI-Powered Content Taxonomy](https://sudodocs-content-mapper.streamlit.app/) application, navigate to  **Step 1: Ingest and Map** \> **Scrape URLs and Content** tab.  
 
 2. **Browse** and upload the assigned TXT file (containing URLs) that you unzipped and then click **Scrape URLs.**  
 

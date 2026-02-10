@@ -12,7 +12,7 @@ from collections import defaultdict
 
 # Page Config
 st.set_page_config(
-    page_title="SudoDocs Content Taxonomy Mapper",
+    page_title="SudoDocs Content Mapper",
     page_icon="https://sudodocs.com/favicon.ico",
     layout="wide"
 )
@@ -346,7 +346,7 @@ with st.sidebar:
     )
 
 # --- Main App Layout ---
-st.title("SudoDocs Content Taxonomy Mapper")
+st.title("SudoDocs Content Mapper")
 st.markdown("A multi-step tool to scrape, map, enrich, and refine web content taxonomy using focused AI tasks.")
 
 tab1, tab2, tab3 = st.tabs(["Step 1: Ingest & Map", "Step 2: Generate Keywords", "Step 3: Edit & Download Results"])

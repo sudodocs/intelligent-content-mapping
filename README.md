@@ -1,4 +1,4 @@
-# SudoDocs Content Mapper
+# SudoDocs Content Mapper 🚀
 
 Create Sphinx `Meta` directive block in CSV and add it to your RST pages. Helps documentation teams in mapping deployment type, topics, and user roles to web pages based on the input provided. Generate SEO technical keywords and map them to your web pages. 
 

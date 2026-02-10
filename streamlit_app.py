@@ -342,7 +342,7 @@ with st.sidebar:
     )
 
 # --- Main App Layout ---
-st.title("AI-Powered Content Taxonomy")
+st.title("SudoDocs Content Taxonomy Mapper")
 st.markdown("A multi-step tool to scrape, map, enrich, and refine web content taxonomy using focused AI tasks.")
 
 tab1, tab2, tab3 = st.tabs(["Step 1: Ingest & Map", "Step 2: Generate Keywords", "Step 3: Edit & Download Results"])

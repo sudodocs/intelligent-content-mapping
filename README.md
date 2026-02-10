@@ -1,10 +1,10 @@
-# SudoDocs Content Taxonomy Mapper
+# SudoDocs Content Mapper
 
 Create Sphinx `Meta` directive block in CSV and add it to your RST pages. Helps documentation teams in mapping deployment type, topics, and user roles to web pages based on the input provided. Generate SEO technical keywords and map them to your web pages. 
 
 ## Map and Generate Keywords
 
-1. In the [AI-Powered Content Taxonomy](https://sudodocs-content-mapper.streamlit.app/) application, navigate to  **Step 1: Ingest and Map** \> **Scrape URLs and Content** tab.  
+1. In the [SudoDocs Content Mapper](https://sudodocs-content-mapper.streamlit.app/) application, navigate to  **Step 1: Ingest and Map** \> **Scrape URLs and Content** tab.  
 
 2. **Browse** and upload the assigned TXT file (containing URLs) that you unzipped and then click **Scrape URLs.**  
 

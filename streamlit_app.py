@@ -301,7 +301,7 @@ def augment_topics(row):
 
 # --- STREAMLIT UI ---
 
-st.set_page_config(layout="wide", page_title="AI Content Mapper")
+st.set_page_config(layout="wide", page_title="SudoDocs Content Taxonomy Mapper")
 
 # Function to load and inject local CSS file
 def local_css(file_name):
